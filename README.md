@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @realchavoo
 - 👀 I’m interested in software
 - 🌱 I’m currently learning infrastructure from scratch to write
-- 💞️ I’m looking to collaborate on .yes
-- 📫 How to reach me ravend chavo#0675 and insta: chavo_inc_
+- 💞️ I make website and game type software. and I make discord bots from scratch
+- 📫 How to reach me ravend capoxxd. and insta: chavoquarex
 - developer by chavo <3
 
 <!---
