@@ -11,6 +11,8 @@
 
 ![image](https://github.com/realchavoo/realchavoo/assets/133610412/01cd7131-1ff5-4a26-80ae-0cfd527351e1)
 
+https://cdn.discordapp.com/attachments/1193475531212070944/1199104624305635369/Ekran_goruntusu_2024-01-22_223322.png?ex=65c15434&is=65aedf34&hm=6a412eff49d07dbc52a69429eef4d28a77d80924e25c4537721fdfc9f7a59937&
+
 
 <!---
 realchavoo/realchavoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
